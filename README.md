@@ -15,4 +15,4 @@ A lightweight command-line text editor written in C, demonstrating the power of 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-c-text-editor.git
+   git clone https://github.com/papi84/simple-c-text-editor.git
